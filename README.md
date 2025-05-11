@@ -15,7 +15,7 @@ A real-time AI chatbot that integrates Google Search with the Groq LLaMA3-70B mo
   Provides contextual, structured answers based on real-time info and user queries.
 
 - 🗃️ **Chat History Logging**  
-  Stores the full conversation in a local JSON file (`Data/chatbot.json`).
+  Stores the full conversation in a local JSON file (`chatbot.json`).
 
 - 🕒 **Real-Time Metadata**  
   Date, time, and day info included in the system prompt for dynamic context.
